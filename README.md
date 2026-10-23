@@ -21,3 +21,8 @@ La suppression est traitée manuellement, après vérification. Le support vous 
 ## Autres demandes
 
 Pour l’accès, la rectification ou une question sur vos données, contactez la même adresse. Application : **Catéchèse adulte Casablanca — Notre-Dame de Lourdes**. Page mise à jour le 23 octobre 2026.
+
+
+## Confidentialité et conservation
+
+[Politique de confidentialité](https://elodiedallilohourignon-jpg.github.io/catechese-adulte-aide/confidentialite.html). Durée des dossiers : suivi actif puis 24 mois après la fin du parcours ou le départ. Photos : 30 jours après le départ. Les autres durées et exceptions figurent dans la politique.
