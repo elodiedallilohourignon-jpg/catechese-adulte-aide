@@ -14,7 +14,7 @@ Ce lien prépare un message dans votre messagerie. Vous devez l’envoyer vous-m
 
 Le support vérifie que la demande vient bien du titulaire du compte, par exemple en lui répondant à son adresse enregistrée. Si vous n’avez plus accès à cette adresse, indiquez-le au support pour convenir d’une vérification adaptée.
 
-La demande concerne le compte de connexion, son profil (courriel, rôle, année) et les données personnelles associées. Les sessions doivent être révoquées. Si vos informations figurent aussi dans un dossier de catéchumène ou une photo, signalez-le : le support doit également traiter ces éléments et leurs copies concernées. La suppression du compte d’un accompagnateur n’efface pas automatiquement les dossiers d’autres personnes ; les informations permettant de l’identifier doivent être examinées séparément.
+La demande concerne le compte de connexion, son profil (courriel, rôle, année) et les données personnelles associées. Les sessions doivent être révoquées. Si vos informations figurent aussi dans un dossier de catéchumène ou catéchisé ou une photo, signalez-le : le support doit également traiter ces éléments et leurs copies concernées. La suppression du compte d’un accompagnateur n’efface pas automatiquement les dossiers d’autres personnes ; les informations permettant de l’identifier doivent être examinées séparément.
 
 La suppression est traitée manuellement, après vérification. Le support vous confirme sa réalisation et précise les éventuelles données conservées pour un motif justifié, leur durée et le traitement des sauvegardes. Une simple désactivation ou un archivage ne constitue pas une suppression.
 
